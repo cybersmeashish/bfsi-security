@@ -1,9 +1,9 @@
-# First research contributions
+# Moved — BFSI security reference
 
-- Build a synthetic case for **Payments and account actions**, then publish: synthetic allowed/denied transactions and approval records.
-- Build a synthetic case for **Customer and tenant boundaries**, then publish: cross-customer and cross-tenant regression cases.
-- Build a synthetic case for **AI-assisted operations**, then publish: tool-authority map, benign controls, and misuse cases.
-- Build a synthetic case for **Supplier and cloud dependencies**, then publish: dependency inventory and exercised recovery gates.
-- Build a synthetic case for **Cryptographic transition**, then publish: inventory gaps and implementation-specific migration evidence.
-- Link a primary source and distinguish its requirements from the proposed design.
-- Invite independent reproduction and record actual adoption separately.
+The current blueprint, tools and research workspace is maintained in:
+
+**[CISO-blueprint-and-tools-for-Financial-and-Professional-Services — BFSI](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Financial-and-Professional-Services/blob/main/BFSI/RESEARCH-BACKLOG.md)**
+
+This path is retained as a redirect so existing links remain useful. The repository retains history and editable redirect pages; continue new contributions in the destination workspace.
+
+[Original pre-migration version](https://github.com/cybersmeashish/bfsi-security/blob/7d1942b2b2216226f44cbba3017c0b2c7bbefbce/RESEARCH-BACKLOG.md) · [New repository](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Financial-and-Professional-Services).

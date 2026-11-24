@@ -1,11 +1,9 @@
-# BFSI — disconnected-cloud reference case
+# Moved — BFSI security reference
 
-The shared research repository now connects local authority, signed imports, controlled changes, monitoring, permitted disclosure and clean restoration to a synthetic BFSI case.
+The current blueprint, tools and research workspace is maintained in:
 
-[Detailed industry case](https://github.com/cybersmeashish/sovereign-disconnected-cloud-security/blob/main/docs/industry-cases/bfsi.md) · [Contributions 08–28](https://github.com/cybersmeashish/sovereign-disconnected-cloud-security/blob/main/docs/contributions-08-28.md) · [Original measured results](https://github.com/cybersmeashish/sovereign-disconnected-cloud-security/blob/main/research/2026-11-18-results.md)
+**[CISO-blueprint-and-tools-for-Financial-and-Professional-Services — BFSI](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Financial-and-Professional-Services/blob/main/BFSI/case-studies/sovereign-disconnected-cloud-reference.md)**
 
-The case identifies scoped local review authority, tenant/site boundaries, two local approvers and environment-specific acceptance questions. Shared experiments include denied cross-scope actions, signed-package rejection, filtered evidence export and clean software-key/config/data restoration.
+This path is retained as a redirect so existing links remain useful. The repository retains history and editable redirect pages; continue new contributions in the destination workspace.
 
-This is synthetic reference work. No customer deployment, real transaction, public-service determination or industrial-control command is claimed. The shared container results cannot establish sector throughput, provider residency, accreditation or whole-site recovery.
-
-[Executive decision brief](https://github.com/cybersmeashish/sovereign-disconnected-cloud-security/blob/main/briefs/ciso-decision-brief.md) · [Reproduce and inspect limits](https://github.com/cybersmeashish/sovereign-disconnected-cloud-security/blob/main/docs/expanded-verification.md)
+[Original pre-migration version](https://github.com/cybersmeashish/bfsi-security/blob/7d1942b2b2216226f44cbba3017c0b2c7bbefbce/case-studies/sovereign-disconnected-cloud-reference.md) · [New repository](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Financial-and-Professional-Services).

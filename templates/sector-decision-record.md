@@ -1,14 +1,9 @@
-# BFSI: sector decision record
+# Moved — BFSI security reference
 
-- Synthetic or authorized business process:
-- Accountable process, security and operating owners:
-- Relevant primary requirement/source and version:
-- Data, operator, key, supplier, runtime and recovery boundaries:
-- Permitted and denied action:
-- Failure, misuse and interruption scenario:
-- Proposed control and actual enforcement point:
-- Legitimate-use baseline and negative case:
-- Observed result and limitations:
-- Next contribution and review trigger:
+The current blueprint, tools and research workspace is maintained in:
 
-Only publish information suitable for a public repository.
+**[CISO-blueprint-and-tools-for-Financial-and-Professional-Services — BFSI](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Financial-and-Professional-Services/blob/main/BFSI/templates/sector-decision-record.md)**
+
+This path is retained as a redirect so existing links remain useful. The repository retains history and editable redirect pages; continue new contributions in the destination workspace.
+
+[Original pre-migration version](https://github.com/cybersmeashish/bfsi-security/blob/7d1942b2b2216226f44cbba3017c0b2c7bbefbce/templates/sector-decision-record.md) · [New repository](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Financial-and-Professional-Services).
